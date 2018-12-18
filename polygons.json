@@ -2,5 +2,5 @@
 	"size" : 9,
 	"radius" : 200,
 	"velocity" : 2,
-	"radiusmin" : 10
+	"radiusmin" : 100
 }
