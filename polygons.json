@@ -1,5 +1,5 @@
 {
-	"key" : 65,
-	"radius" : 1500,
-	"number" : 375
+	"size" : 6,
+	"radius" : 150,
+	"number" : 1
 }
