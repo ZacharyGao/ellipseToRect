@@ -1,6 +1,6 @@
 {
 	"size" : 9,
 	"radius" : 200,
-	"velocity" : 2,
-	"radiusmin" : 100
+	"radiusmin" : 100,
+	"velocity" : 2
 }
